@@ -7,6 +7,7 @@ root.render(
   <React.StrictMode>
     <h1 bgcolor='red'>hello</h1>
     <h3>this is my class</h3>
+    <h2>aslkdfashkdh</h2>
   </React.StrictMode>
 );
 
